@@ -1,0 +1,41 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.27130.2027
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CRAsm", "CRAsm\CRAsm.csproj", "{0754E2A4-25E6-49A7-A982-229E6C713DB6}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Docs", "Docs", "{1B0D7159-5660-4B40-A134-3C30FF9C57A6}"
+	ProjectSection(SolutionItems) = preProject
+		Docs\8080 Programmers Manual.pdf = Docs\8080 Programmers Manual.pdf
+		Docs\Intel 8080 OPCODES.html = Docs\Intel 8080 OPCODES.html
+		Docs\Intel Hex Format.html = Docs\Intel Hex Format.html
+	EndProjectSection
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x86 = Debug|x86
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{0754E2A4-25E6-49A7-A982-229E6C713DB6}.Debug|x86.ActiveCfg = Debug|x86
+		{0754E2A4-25E6-49A7-A982-229E6C713DB6}.Debug|x86.Build.0 = Debug|x86
+		{0754E2A4-25E6-49A7-A982-229E6C713DB6}.Release|x86.ActiveCfg = Release|x86
+		{0754E2A4-25E6-49A7-A982-229E6C713DB6}.Release|x86.Build.0 = Release|x86
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {52157219-1C8C-4049-A8C9-6DF4EB4D9521}
+	EndGlobalSection
+	GlobalSection(TeamFoundationVersionControl) = preSolution
+		SccNumberOfProjects = 2
+		SccEnterpriseProvider = {4CA58AB2-18FA-4F8D-95D4-32DDF27D184C}
+		SccTeamFoundationServer = https://wilsontp.visualstudio.com/
+		SccLocalPath0 = .
+		SccProjectUniqueName1 = CRAsm\\CRAsm.csproj
+		SccProjectName1 = CRAsm
+		SccLocalPath1 = CRAsm
+	EndGlobalSection
+EndGlobal
